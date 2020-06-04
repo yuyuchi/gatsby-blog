@@ -1,11 +1,37 @@
 ---
 title: "About me"
 template: "page"
-# socialImage: "/media/image-2.jpg"
+socialImage: "/photo.jpg"
 ---
+Hi! I am Yuyu, I'm a **front end developer**, and I have **3+ years** of related industry experience.
 
-Pellentesqu habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## Experience
+### Noodoe (2018/10-2020/6)
+**Frontend Engineer**
+ - Creating new features on sites using **React, Redux, Apollo, JWT**.
+ - Recommending **user-friendly** solutions with the design team.
+ - Ensuring proper documentation and reports of all stages of product life cycles with Atlassian.
+ - Performing bug fixed and code review with Github.
+ - Deploying sites with Firebase.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### Taishin International Bank (2016/3-2018/4)
+**Application Programmer**
+ - Provide SQL script to support product manager giving cash feedback(SQL-MySQL, oracle, MySQL)
+ - Tracking users' flow or behavior through google tag manager & google analytics
+ - Taishin APP, Richart APP, Marketing websites development(mostly front-end)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### Astra Zeneca (2015/3-2015/9)
+**Administrative Assistant**
+ - Responsible for integrated and analyzed the questionnaire.
+
+## Skill/Tools
+ - React, Redux
+ - Vue
+ - User experience
+ - Axios, Apollo
+ - Firebase
+ - Jenkins
+
+## Education
+ - Chang Gung University(2011 – 2015)
+ - Bachelor's degree, Biomedical Sciences
