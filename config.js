@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'Gallery',
-      path: 'pages/gallery'
+      path: '/gallery'
     },
     // {
     //   label: 'About me',
