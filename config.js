@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://pedantic-bhaskara-fa0a7e.netlify.app/',
   pathPrefix: '/',
   title: 'Blog by Yuyu',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'tulā tapas ca',
   postsPerPage: 4,
   // googleAnalyticsId: 'UA-73379983-2', TODO
   useKatex: false,
