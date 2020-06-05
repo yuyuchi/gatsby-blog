@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: 'tulā tapas ca',
   postsPerPage: 4,
-  // googleAnalyticsId: 'UA-73379983-2', TODO
+  googleAnalyticsId: 'UA-158806891-1',
   useKatex: false,
   menu: [
     {
