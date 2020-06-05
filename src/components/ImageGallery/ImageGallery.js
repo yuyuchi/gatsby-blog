@@ -6,8 +6,8 @@ const _ = require('lodash');
 
 const ImageGallery = () => {
   const data = useStaticQuery(graphql`
-    query CloudinaryImage {
-      allCloudinaryMedia {
+    query CloudinaryImageOfBotanical {
+      allCloudinaryMedia (filter: {public_id: {glob: "gatsby-blog/botanical/*"}}){
         edges {
           node {
             secure_url
