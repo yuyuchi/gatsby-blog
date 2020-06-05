@@ -13,7 +13,7 @@ description: "如果要說與大象相處最深刻的一件事，那就是感受
 socialImage: "/media/elephant-with-yo.jpg"
 ---
 
-![elephant-with-yo.jpg](/media/elephant-with-yo.jpg)
+![elephant-with-yo.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370461/gatsby-blog/posts/thiland/elephant-with-yo_xrmnt2.jpg)
 *照片中的是一歲多的Gili小女孩與Yo*
 
 第一天認識我們的嚮導Yo時，他說“大象對人來說太大了。” “當大象為了他們自己反抗時，人們總說，這是一隻具有攻擊性的大象、這是一隻不乖的大象，但事實並非如此。”
@@ -66,3 +66,5 @@ The only thing I think I can do for elephants is to write down their stories and
 
 Thank you for reading this article, and finally attach the link to the institution which I joined this time:
 https://www.elephantnaturepark.org/
+
+![elephant-in-the-jungle.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370468/gatsby-blog/posts/thiland/elephant-in-the-jungle_pzppni.jpg)
