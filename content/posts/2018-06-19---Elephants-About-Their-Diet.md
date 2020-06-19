@@ -9,6 +9,7 @@ tags:
   - "Travel"
   - "Thiland"
   - "Animal"
+  - "Volunteer"
 description: "除了在動物園看到大象會吃牧草以外，在野外的大象，可以吃的植物種類遠超乎我原本的想像。"
 socialImage: "/media/elephant-eat.jpg"
 ---

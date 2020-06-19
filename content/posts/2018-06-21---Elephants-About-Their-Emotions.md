@@ -9,6 +9,7 @@ tags:
   - "Travel"
   - "Thiland"
   - "Animal"
+  - "Volunteer"
 description: "如果要說與大象相處最深刻的一件事，那就是感受他們的情緒了吧，在他們身旁聽著他們因為情緒起伏而發出的各種聲音，時而發出像小奶狗的嗚噎聲、時而發出像暴龍的噠噠聲，覺得自己是如此渺小而人類又是多麼的狂妄。"
 socialImage: "/media/elephant-with-yo.jpg"
 ---

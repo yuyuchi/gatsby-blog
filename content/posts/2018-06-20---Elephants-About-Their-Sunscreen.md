@@ -9,6 +9,7 @@ tags:
   - "Travel"
   - "Thiland"
   - "Animal"
+  - "Volunteer"
 description: "亞洲象喜歡把泥巴塗抹在身上，可以保護皮膚不受蚊蟲或高溫的傷害。"
 socialImage: "/media/elephant-sunscreen.jpg"
 ---

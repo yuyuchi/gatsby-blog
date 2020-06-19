@@ -1,0 +1,43 @@
+---
+title: 經期零廢棄
+date: "2020-06-19T00:00:00.000Z"
+template: "post"
+draft: false
+slug: "zero-waste-period"
+category: "ZeroWaste"
+tags:
+  - "ZeroWaste"
+description: "在月經週期環保沒有想像中那麼痛苦，如果你有冒險精神就來試試看吧！"
+socialImage: "https://res.cloudinary.com/dgmzobl6w/image/upload/v1592556560/gatsby-blog/posts/zerowaste/period_wqjdo6.jpg"
+---
+
+<figure class="float-right" >
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1592556560/gatsby-blog/posts/zerowaste/period_wqjdo6.jpg" alt="menstrual cup and cloth pads">
+	<figcaption>目前就任中的月亮杯與布衛生棉</figcaption>
+</figure>
+
+
+## 我所使用的產品有哪些
+#### lunette 月亮杯
+我目前用的月亮杯是lunette model 1，量多時一天頂多換個兩次，量少時可以一整天在外面都不用換沒問題！（月亮杯最多可以撐12小時），lunette的材質跟其他牌子比起來應該算是比較硬的，對於常運動的我來說沒有側漏的問題過，我在使用到第三個月經週期時，就比較熟練了，學會之後發現根本就是另一個世界！沒有衛生棉的悶熱感、也沒有衛生棉條的拉扯感，如果在一開始使用很挫折的朋友們，千萬不要放棄啊！
+
+#### 海邊的司廚 布護墊
+在使用月亮杯的時候，我會搭配薄型的布護墊以防萬一，清洗方式是用水晶肥皂濃液體（冷水，千萬不可使用溫熱水，因為溫熱水會使血液凝固），浸泡一晚，隔天起來的時候輕輕搓洗吊掛晾乾，沒有殘留髒污過，比想像中好清潔很多。
+
+## 月亮杯的挑選注意事項
+以上產品對我來說都蠻好用的，所以寫出來給大家參考，但實際挑選時還是要依照自己的狀況來選擇會比較好，
+以月亮杯來說，我會參考的幾個標準如下：
+
+#### 1. 月亮杯長度
+可以參考[這篇文章](https://menstrualcupreviews.net/high-or-low-cervix/) 來選選擇適合的月亮杯長度，不過有很多月亮杯的柄可以剪掉，以符合低子宮頸的人。
+
+#### 2. 月亮杯材質軟硬程度
+材質軟的月亮杯在一開始練習時會覺得比較舒適沒有異物感，但比較容易折到導致側漏的問題，若是很常運動的人可以考慮選擇相對比較硬的款式。
+
+綜合以上兩點，就可以把自己的方向打在[這個網站](https://menstrualcupreviews.net/comparison/)裡，然後看看使用這些月亮杯的人的心得大致如何。
+
+#### 3. 月亮杯是否有透氣孔
+另外我也有把是否有透氣孔放在考慮的項目裡面，聽說在拿出時比較好解真空。
+
+## 月亮杯的練習與使用步驟
+月亮杯的購買網站通常就有很詳細的說明該如何取出，這部分比絕大多數的部落客寫得要詳細很多了，請大家一定要好好觀看原本的說明，這部分我就不多說了。
