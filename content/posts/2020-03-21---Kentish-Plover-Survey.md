@@ -10,6 +10,7 @@ tags:
   - "Volunteer"
   - "Animal"
 description: "2020年協助調查東方環頸鴴的繁殖狀況小記"
+socialImage: "https://res.cloudinary.com/dgmzobl6w/image/upload/v1592637111/gatsby-blog/posts/kentish_plover_vx1vrz.jpg"
 ---
 
 ## 關於東方環頸鴴
@@ -17,6 +18,9 @@ description: "2020年協助調查東方環頸鴴的繁殖狀況小記"
 每一季會有兩次的巢數發現大爆發，通常集中在4月與5月，
 因此在3月-7月的這段時間，會宣導不要去海邊淨灘，
 以免打擾到東方環頸鴴的繁殖或是不小心破壞到他們的巢位。
+
+![東方環頸鴴](https://res.cloudinary.com/dgmzobl6w/image/upload/v1592637111/gatsby-blog/posts/kentish_plover_vx1vrz.jpg)
+*躲藏在寶特瓶下的東方環頸鴴小朋友*
 
 東方環頸鴴是一種跟手掌打開差不多一樣大的鳥類，
 牠們的生活範圍在海濱灘地與潮間帶附近，
@@ -27,6 +31,11 @@ description: "2020年協助調查東方環頸鴴的繁殖狀況小記"
 像是翅膀打開開在沙灘上以詭異的姿勢前行、
 或是把身體和頭好好地貼在沙地上，
 以讓掠食者轉移注意力到親鳥們身上。
+
+<figure class="float-right" >
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1592637252/gatsby-blog/posts/kentish_plover_egg_vqgf93.jpg" alt="menstrual cup and cloth pads">
+	<figcaption>東方環頸鴴的巢一次通常會有2-3顆蛋，下蛋到孵化約需21天</figcaption>
+</figure>
 
 ## 調查方法
 協會根據 **Breeding survey guide of Kentish plover** 的文獻加以調整，
