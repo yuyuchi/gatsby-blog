@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 socialImage: "/photo.jpg"
 ---
-Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **3+ years** of related industry experience.
+Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years** of related industry experience.
 
 ## Experience
 ### Noodoe (2018/10-2020/6)
@@ -24,13 +24,27 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **3+ years*
 **Administrative Assistant**
  - Responsible for integrated and analyzed the questionnaire.
 
+--------------------------
 ## Skill/Tools
  - React, Redux
  - Vue
+ - Material-UI, Ant-Design, Bootstrap
  - User experience
  - Axios, Apollo
  - Firebase
  - Jenkins
 
+--------------------------
 ## Education
 graduated from **Chang Gung University**(2011 – 2015) with a bachelor degree in **Biomedical Sciences**
+
+--------------------------
+## Activity
+Besides works, I care about environments and education.
+### The Society of Wilderness(2019/3-current)
+ - beach cleanup
+ - investigation of Kentish Plover's breeding situation
+ - related event support
+
+### Animal Educator (2017/9-2018/9)
+Besides being as a programmer, I also do some animal education at Taipei’s elementary school, taking some animals like lizards, tarantula, or cute mammals to the elementary and talk about their stories which can develop students’ empathy and curiosity by letting them know different kinds of animals. I love to inspiring or teaching others by using interesting ways, I hope everyone can learn because they desire dig into a field that they think is really interesting rather than just getting through the tests.
