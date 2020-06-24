@@ -8,7 +8,7 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 ## Experience
 ### Noodoe (2018/10-2020/6)
 **Frontend Engineer**
- - Creating new features on sites which is using **React**.
+ - Creating new features on sites that are using **React**.
  - Recommending **user-friendly** solutions with the design team.
  - Ensuring **proper documentation** and reports of all stages of product life cycles with Atlassian.
  - Performing bug fixed and **code review** with Github.
@@ -16,9 +16,10 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 
 ### Taishin International Bank (2016/3-2018/4)
 **Application Programmer**
- - Provide **SQL script** to support product manager giving cash feedback.(SQL-MySQL, oracle, MySQL)
+ - Provide **SQL script** to support product managers giving cash feedback. (SQL-MySQL, oracle, MySQL)
  - Tracking users' flow or behavior through **google tag manager** & **google analytics**.
  - Taishin APP(**built with Sencha Touch**), Richart APP(**build with Cordova and jQuery**), Marketing websites(**built with jQuery and Java**) development.
+ - Hold a scrum team as a scrum master, mainly in charge of checking the specification and making sure the development process is not running behind.
 
 ### Astra Zeneca (2015/3-2015/9)
 **Administrative Assistant**
