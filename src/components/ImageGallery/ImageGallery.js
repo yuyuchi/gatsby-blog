@@ -1,26 +1,13 @@
+// @flow strict
 import React from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
+import { useImageGallery } from '../../hooks';
 import styles from './ImageGallery.module.scss';
 
 const _ = require('lodash');
 
 const ImageGallery = () => {
-  const data = useStaticQuery(graphql`
-    query CloudinaryImage {
-      allCloudinaryMedia (filter: {public_id: {glob: "gatsby-blog/botanical/*"}}){
-        edges {
-          node {
-            secure_url
-            context {
-              custom {
-                alt
-              }
-            }
-          }
-        }
-      }
-    }`);
-  const clImages = data.allCloudinaryMedia.edges;
+  const clImages = useImageGallery();
+
   return (
         <div>
           <div className={styles['image-grid']}>
