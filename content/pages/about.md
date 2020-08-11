@@ -8,7 +8,7 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 ## Experience
 ### Noodoe (2018/10-2020/6)
 **Frontend Engineer**
- - Developed frontend for **7 projects(used in React) independently**, and created a repository template to improve efficiency and consistency.
+ - Developed frontend for **7 projects(used with React) independently**, and created a repository template to improve efficiency and consistency.
  - Recommended **user-friendly** solutions with the design team.
  - Ensured **proper documentation** and reported of all stages of product life cycles with Atlassian.
  - Performed bug fixed and **code review** with Github.
