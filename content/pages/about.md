@@ -6,6 +6,12 @@ socialImage: "/photo.jpg"
 Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years** of related industry experience.
 
 ## Experience
+### Xfers (2020/9-current)
+**Software Engineer**
+ - TypeScript
+ - E2E testing
+ - Mentoring juniors
+
 ### Noodoe (2018/10-2020/6)
 **Frontend Engineer**
  - Developed frontend for **7 projects(used with React) independently**, and created a repository template to improve efficiency and consistency.
@@ -29,6 +35,8 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 --------------------------
 ## Skill/Tools
  - React, Redux, Formik, Redux-Saga
+ - TypeScript
+ - Cypress
  - Material-UI, Ant-Design, Bootstrap
  - User experience
  - Axios, Apollo
