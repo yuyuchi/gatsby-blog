@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years** of related industry experience.
+Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years** of related industry experience.
 
 ## Experience
 
@@ -18,7 +18,7 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 - Standardizing reviewing process, scoping process, API format across different teams.
 - Tech Stack: React, TypeScript, Webpack, Rollup, Monorepo structure.
 
-### Noodoe (2018/10-2020/6)
+### Noodoe (Oct 2018 - Jun 2020)
 
 **Frontend Engineer**
 
@@ -29,7 +29,7 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 - **Multi-language** websites experience.
 - Experienced with different kinds of mobile browsers trigger **native calls**(eg. camera).
 
-### Taishin International Bank (2016/3-2018/4)
+### Taishin International Bank (Mar 2016 - Apr 2018)
 
 **Application Programmer**
 
