@@ -8,9 +8,15 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **4 years**
 
 ## Experience
 
-### Xfers (2020/9-current)
+### Xfers (Sep 2020 - Jul 2022)
 
+**Technical Lead, Frontend (Jun 2021 - Jul 2022)**
 **Frontend Engineer**
+
+- Manged frontend team, participated in **recruitment** and **mentoring** juniors.
+- **Optimized development workflow** and held tech discussion or proposal.
+- Standardizing reviewing process, scoping process, API format across different teams.
+- Tech Stack: React, TypeScript, Webpack, Rollup, Monorepo structure.
 
 ### Noodoe (2018/10-2020/6)
 
