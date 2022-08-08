@@ -10,7 +10,7 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years**
 
 ### Xfers (Sep 2020 - Jul 2022)
 
-**Technical Lead, Frontend (Jun 2021 - Jul 2022)**
+**Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
 **Frontend Engineer**
 
 - Manged frontend team, participated in **recruitment** and **mentoring** juniors.
@@ -48,8 +48,8 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years**
 
 ## Skill/Tools
 
-- React, Redux, Formik, Redux-Saga
-- TypeScript
+- TypeScript, JavaScript
+- React, Redux, Formik, Redux-Saga, Redux-Thunk, React-Query
 - Cypress
 - Material-UI, Ant-Design, Bootstrap
 - User experience
