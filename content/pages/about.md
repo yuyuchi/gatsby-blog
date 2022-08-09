@@ -13,10 +13,12 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years**
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
 **Frontend Engineer**
 
-- Manged frontend team, participated in **recruitment** and **mentoring** juniors.
-- **Optimized development workflow** and held tech discussion or proposal.
-- Standardizing reviewing process, scoping process, API format across different teams.
-- Tech Stack: React, TypeScript, Webpack, Rollup, Monorepo structure.
+- Managed front-end team(of 4-6), and participated in recruitment, performance review, and mentoring juniors through code review and 1:1.
+- By continue assessing engineer feedback, and using analyzing/tracking tools, led initiatives for technical improvement to get better developer experiences.
+- Work in close coordination with design leads or PMs by providing technical views and considerations to find the most suitable solution for the project, such as design system, and role-based access control. Drew up migration and revamping plans for future quarters.
+- Standardized reviewing process, scoping process, and API format across different teams.
+- Taking charge of the entire front-end infrastructure in the company, including optimization of CI flow, webpack/rollup bundling size, mono repos(with lerna)
+- Tech stack: React, TypeScript, Webpack, Rollup, Monorepo structure, Sentry, Micro front-ends.
 
 ### Noodoe (Oct 2018 - Jun 2020)
 
