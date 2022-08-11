@@ -13,8 +13,8 @@ Senior Front-end Engineer with 6 years of proven leadership and meaningful contr
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
 **Frontend Engineer**
 
-- Managed frontend team of 4-6 members from different countries. Participated in recruitment, performance review, and mentoring 4 juniors through code review and 1:1.
-- Besides long-term projects, also short-term support 3 squads for code audits and knowledge exchange.
+- Managed frontend team of 4-6 members from different countries. Participated in recruitment, performance review, and mentoring.
+- Supported 3 squads for code audits and knowledge exchange.
 - Led initiatives for technical improvement to get better developer experiences by assessing engineer feedback and using tracking tools such as DataDog, Sentry, and FullStory.
 - Not only crafting architectural decision records, but also the technical vision of the whole organization.
   - Role-based access control
