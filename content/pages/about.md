@@ -14,10 +14,19 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years**
 **Frontend Engineer**
 
 - Managed frontend team of 4-6 members from different countries. Participated in recruitment, performance review, and mentoring 4 juniors through code review and 1:1.
-- By continue assessing engineer feedback, and using tracking/analyzing tools, led initiatives for technical improvement to get better developer experiences.
-- Work in close coordination with design leads or PMs by providing technical views and considerations to find the most suitable solution for the project, such as design-system, and role-based access control. Drew up migration and revamping plans for future quarters.
-- Standardized reviewing process, scoping process, and API format across different teams.
-- Took charge of the entire frontend infrastructure in the company, including optimization of the CI flow, webpack/rollup bundling size, mono repos(with lerna).
+- Besides long-term projects, also short-term support 3 squads for code audits and knowledge exchange.
+- Led initiatives for technical improvement to get better developer experiences by assessing engineer feedback and using tracking tools such as DataDog, Sentry, and FullStory.
+- Not only crafting architectural decision records, but also the technical vision of the whole organization.
+  - Role-based access control
+  - Design-system
+  - Manage monorepos with Lerna
+  - Micro frontends
+  - Documented style guides(TypeScript/React/Redux) and API specification.
+- Optimization of the CI flow, reducing Webpack/Rollup bundling size, and automation of daily workflow.
+  - Reduce 23% of bundle size.
+  - Reduce application run-up time from 5 minutes to less than 1 minute.
+  - Generate code template when creating new components in design-system.
+  - Introduced lint-staged for the team to pre-catch errors and enforce code style.
 
 ### Noodoe (Oct 2018 - Jun 2020)
 
