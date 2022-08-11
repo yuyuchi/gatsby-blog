@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years** of related industry experience.
+Senior Front-end Engineer with 6 years of proven leadership and meaningful contributions to teams of varying sizes and scopes, in terms of standards and coding practices, continuous improvements either in training and development of the team, of the efficiency of sprint process/meetings. Passionate about going the extra mile to have discussions with designers/PMs/back-end engineers to make things better.
 
 ## Experience
 
@@ -33,7 +33,6 @@ Hi! I am Yuyu, I'm a **front end developer** from Taiwan, and I have **6 years**
 **Frontend Engineer**
 
 - Developed frontend for **7 projects(used with React) independently**, and created a repository template to improve efficiency and consistency.
-- Worked with designers, back-end engineers, and PM during the sprint.
 - Experienced with both **RESTful** and **GraphQL** api.
 - Worked with firmware team to test firmware device’s status.
 - **Multi-language** websites experience.
