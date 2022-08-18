@@ -4,31 +4,39 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-Senior Front-end Engineer with 6 years of proven leadership and meaningful contributions to teams of varying sizes and scopes, in terms of standards and coding practices, continuous improvements either in training and development of the team, of the efficiency of sprint process/meetings. Passionate about going the extra mile to have discussions with designers/PMs/back-end engineers to make things better.
+A Front-end Engineer with 6 years of experience in leading development teams of varied sizes, and contributing to frontend infrastructure. Fluent in English, Mandarin, and Taiwanese, she excels at working with diverse stakeholder to meet standards and coding practices, delivering continuous improvements either in training and development of the team, or the efficiency of sprint process and meetings.
+
+Passionate about going the extra mile to hold meaningful discussions with designers, PMs, and backend engineers to achieve great outcomes beyond expectation. She is currently residing in Taiwan and is planning to relocate permanently to Australia to further advance her career.
 
 ## Experience
 
-### Xfers (Sep 2020 - Jul 2022)
+### [Xfers](https://www.xfers.com/sg) (Sep 2020 - Jul 2022)
+
+##### Singapore (Remote)
 
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
 **Frontend Engineer**
 
-- Managed frontend team of 4-6 members from different countries. Participated in recruitment, performance review, and mentoring.
-- Supported 3 squads for code audits and knowledge exchange.
-- Led initiatives for technical improvement to get better developer experiences by assessing engineer feedback and using tracking tools such as DataDog, Sentry, and FullStory.
-- Not only crafting architectural decision records, but also the technical vision of the whole organization.
-  - Role-based access control
-  - Design-system
+- **Managed a frontend team** of 6 from different countries (Indonesia, Malaysia, Singapore, and India).
+- Participated in **recruitment, performance review, and mentoring** junior staff.
+- Supported 3 squads for code audits and knowledge exchange for **encouraging collaboration and for best practices alignment**.
+- Led initiatives for technical improvements to get enhanced developer experiences by assessing engineer feedback and **using tracking tools such as DataDog, Sentry, and FullStory**. As a result, people are able to devise new features, improve lacking areas, and even introduce workplace initiatives base on actual data.
+- Developed **architectural decision** records, technical strategy and vision of the entire organisation.\
+  Delivered strategies include:
+  - RBAC and GBAC ➜ for more secure user management and segregation of user duties.
+  - Design-system ➜ for reducing duplication works between squads.
   - Manage monorepos with Lerna
   - Micro frontends
-  - Documented style guides(TypeScript/React/Redux) and API specification.
-- Optimization of the CI flow, reducing Webpack/Rollup bundling size, and automation of daily workflow.
-  - Reduce 23% of bundle size.
-  - Reduce application run-up time from 5 minutes to less than 1 minute.
-  - Generate code template when creating new components in design-system.
-  - Introduced lint-staged for the team to pre-catch errors and enforce code style.
+- Documented **style guides** (TypeScript/React/Redux) and API specification for reducing repetitive communication works.
+- Optimised the CI flow, which reduced Webpack/Rollup bundling size, and automated daily workflow, which led to:
+  - 23% reduction of bundle size.
+  - Reduced application run-up time from 5 minutes to less than 1 minute.
+  - Automated code template when creating new components in design-system.
+  - Lint-staged for the team to pre-catch errors and enforce code style.
 
 ### Noodoe (Oct 2018 - Jun 2020)
+
+##### Taipei, Taiwan
 
 **Frontend Engineer**
 
@@ -39,6 +47,8 @@ Senior Front-end Engineer with 6 years of proven leadership and meaningful contr
 - Experienced with different kinds of mobile browsers trigger **native calls**(eg. camera).
 
 ### Taishin International Bank (Mar 2016 - Apr 2018)
+
+##### Taipei, Taiwan
 
 **Application Programmer**
 
