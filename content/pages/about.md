@@ -12,7 +12,7 @@ Passionate about going the extra mile to hold meaningful discussions with design
 
 ### [Xfers](https://www.xfers.com/sg) (Sep 2020 - Jul 2022)
 
-##### Singapore (Remote)
+<span style="color:grey">Singapore (Remote)</span>
 
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
 **Frontend Engineer**
@@ -34,28 +34,27 @@ Passionate about going the extra mile to hold meaningful discussions with design
   - Automated code template when creating new components in design-system.
   - Lint-staged for the team to pre-catch errors and enforce code style.
 
-### Noodoe (Oct 2018 - Jun 2020)
+### [Noodoe](https://www.noodoe.com/au/) (Oct 2018 - Jun 2020)
 
-##### Taipei, Taiwan
+<span style="color:grey">Taipei, Taiwan</span>
 
 **Frontend Engineer**
 
-- Developed frontend for **7 projects(used with React) independently**, and created a repository template to improve efficiency and consistency.
+- Developed frontend for **7 projects (with React) independently**, and created a repository template to improve efficiency and consistency.
 - Experienced with both **RESTful** and **GraphQL** api.
 - Worked with firmware team to test firmware device’s status.
-- **Multi-language** websites experience.
-- Experienced with different kinds of mobile browsers trigger **native calls**(eg. camera).
+- Worked with various mobile browsers trigger native calls (e.g., camera).
 
-### Taishin International Bank (Mar 2016 - Apr 2018)
+### [Taishin International Bank](https://www.taishinbank.com.tw/TSB/en/) (Mar 2016 - Apr 2018)
 
-##### Taipei, Taiwan
+<span style="color:grey">Taipei, Taiwan</span>
 
 **Application Programmer**
 
-- Taishin APP(**built with Sencha Touch**), Richart APP(**build with Cordova and jQuery**), Marketing websites(**built with jQuery and Java**) development.
-- Tracked users' flow or behavior through **google tag manager** & **google analytics**.
-- Provided **SQL scripts** to support product managers giving cash feedback. (SQL-MySQL, oracle, MySQL)
-- Hold a scrum team as a scrum master, mainly in charge of checking the specification and making sure the development process was not running behind.
+- [Richart APP](https://apps.apple.com/tw/app/richart/id1079733142) (**with Cordova and jQuery**), [Taishin APP](https://play.google.com/store/apps/details?id=tw.com.taishinbank.mobile&hl=zh_TW&gl=US) (**with Sencha Touch**), Marketing websites (**with jQuery and Java**) development.
+- Tracked users’ flow or behaviour through **Google Tag Manager** & **Google Analytics**.
+- Provided **SQL scripts** to support product managers in providing cashback to customers, including SQL-MySQL, oracle, MySQL, etc.
+- Held a scrum team as a scrum master. Responsible for verifying requirement specifications and tracking the development timeline to deliver projects in a timely and efficient manner.
 
 ### Astra Zeneca (2015/3-2015/9)
 
