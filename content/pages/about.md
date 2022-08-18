@@ -4,9 +4,7 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-A Front-end Engineer with 6 years of experience in leading development teams of varied sizes, and contributing to frontend infrastructure. Fluent in English, Mandarin, and Taiwanese, she excels at working with diverse stakeholder to meet standards and coding practices, delivering continuous improvements either in training and development of the team, or the efficiency of sprint process and meetings.
-
-Passionate about going the extra mile to hold meaningful discussions with designers, PMs, and backend engineers to achieve great outcomes beyond expectation. She is currently residing in Taiwan and is planning to relocate permanently to Australia to further advance her career.
+a **front-end engineer** from Taiwan.
 
 ## Experience
 
