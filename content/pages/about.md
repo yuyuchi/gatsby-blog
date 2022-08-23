@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-a **front-end engineer** from Taiwan.
+a **front-end engineer** from Taiwan.👩‍💻🇹🇼
 
 ## Experience
 
