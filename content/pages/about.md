@@ -84,7 +84,7 @@ Xfers (YC S15) and Payfazz (YC S17) merged to form Fazz Financial Group.</span>
 
 ## Education
 
-graduated from **Chang Gung University**(2011 – 2015) with a bachelor degree in **Biomedical Sciences**
+**Bachelor of Science**, Biomedical Sciences, **Chang Gung University**, 2011 - 2015
 
 ---
 
