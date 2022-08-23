@@ -10,6 +10,8 @@ a **front-end engineer** from Taiwan.
 
 ### [Xfers](https://www.xfers.com/sg) (Sep 2020 - Jul 2022)
 
+<span style="color:grey">Frontend development for a fintech startup which provides all-in-one finance solutions in Southeast Asia.
+Xfers (YC S15) and Payfazz (YC S17) merged to form Fazz Financial Group.</span>
 <span style="color:grey">Singapore (Remote)</span>
 
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
@@ -34,6 +36,7 @@ a **front-end engineer** from Taiwan.
 
 ### [Noodoe](https://www.noodoe.com/au/) (Oct 2018 - Jun 2020)
 
+<span style="color:grey">Frontend development to provide solutions for managing electric charging networks.</span>
 <span style="color:grey">Taipei, Taiwan</span>
 
 **Frontend Engineer**
@@ -45,6 +48,7 @@ a **front-end engineer** from Taiwan.
 
 ### [Taishin International Bank](https://www.taishinbank.com.tw/TSB/en/) (Mar 2016 - Apr 2018)
 
+<span style="color:grey">Application(iOS/Android) development for digital banking.</span>
 <span style="color:grey">Taipei, Taiwan</span>
 
 **Application Programmer**
