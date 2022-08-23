@@ -11,7 +11,7 @@ a **front-end engineer** from Taiwan.👩‍💻🇹🇼
 ### [Xfers](https://www.xfers.com/sg) (Sep 2020 - Jul 2022)
 
 <span style="color:rosybrown">Frontend development for a fintech startup which provides all-in-one finance solutions in Southeast Asia.\
-Xfers (YC S15) and Payfazz (YC S17) merged to form Fazz Financial Group.</span>
+Xfers (YC S15) and Payfazz (YC S17) merged to form Fazz Financial Group.\</span>
 <span style="color:grey">Singapore (Remote)</span>
 
 **Technical Lead, Frontend (Jun 2021 - Jul 2022)**\
