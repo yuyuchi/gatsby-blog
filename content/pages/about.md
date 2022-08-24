@@ -84,7 +84,19 @@ Xfers (YC S15) and Payfazz (YC S17) merged to form Fazz Financial Group.\</span>
 
 ## Education
 
-**Bachelor of Science**, Biomedical Sciences, **Chang Gung University**, 2011 - 2015
+#### CS50: Computer Science Courses and Programs from Harvard, 2020
+
+- Think algorithmically and solve programming problems efficiently.
+- Familiarity with a number of languages, including C, Python, SQL, and JavaScript.
+
+#### Institute for Information Industry, Sep 2015 - Feb 2016
+
+- Worked with languages such as PHP and JavaScript
+- Familiar with UI design (with Illustrator) and image editing (with Photoshop)
+
+#### Chang Gung University, 2011 - 2015
+
+Bachelor of Science, Biomedical Sciences
 
 ---
 
