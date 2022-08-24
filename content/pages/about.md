@@ -72,12 +72,10 @@ a **front-end engineer** from Taiwan.👩‍💻🇹🇼
 - React, Redux, Formik, Redux-Saga, Redux-Thunk, React-Query
 - Cypress, Jest
 - Sentry
-- CircleCI
+- CircleCI, Jenkins, Firebase
 - Material-UI, Ant-Design, Bootstrap
 - User experience
 - Axios, Apollo
-- Firebase
-- Jenkins
 
 ---
 
