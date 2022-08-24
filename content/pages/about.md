@@ -35,7 +35,7 @@ a **front-end engineer** from Taiwan.👩‍💻🇹🇼
 
 ### [Noodoe](https://www.noodoe.com/au/) (Oct 2018 - Jun 2020)
 
-<span style="color:rosybrown">Frontend development to provide solutions for managing electric charging networks.\</span>
+<span style="color:rosybrown">Frontend development to provide solutions for managing electric charging networks.</span>\
 <span style="color:grey">Taipei, Taiwan</span>
 
 **Frontend Engineer**
