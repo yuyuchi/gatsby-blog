@@ -47,7 +47,7 @@ a **front-end engineer** from Taiwan.👩‍💻🇹🇼
 
 ### [Taishin International Bank](https://www.taishinbank.com.tw/TSB/en/) (Mar 2016 - Apr 2018)
 
-<span style="color:rosybrown">Application(iOS/Android) development for digital banking. (with 590k active users per month)</span>\
+<span style="color:rosybrown">Application(iOS/Android) development for digital banking. (with 590K active users per month)</span>\
 <span style="color:grey">Taipei, Taiwan</span>
 
 **Application Programmer**
