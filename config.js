@@ -19,10 +19,10 @@ module.exports = {
       label: "Gallery",
       path: "/gallery",
     },
-    // {
-    //   label: 'About me',
-    //   path: '/pages/about'
-    // },
+    {
+      label: "About",
+      path: "/pages/about",
+    },
     // {
     //   label: 'Contact me',
     //   path: '/pages/contacts'
