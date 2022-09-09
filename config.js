@@ -40,7 +40,7 @@ module.exports = {
       github: "yuyuchi",
       rss: "",
       vkontakte: "",
-      linkedin: "yu-chi-yu-6379a3b1",
+      linkedin: "yuyuchi",
       instagram: "yuyuchi1029",
       line: "",
       gitlab: "",
