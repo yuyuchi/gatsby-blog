@@ -2,7 +2,7 @@ import React from 'react';
 import Sidebar from '../components/Sidebar';
 import Layout from '../components/Layout';
 import Page from '../components/Page';
-import Gallery from '../components/Gallery';
+import ImageGallery from '../components/ImageGallery';
 import { useSiteMetadata } from '../hooks';
 
 const GalleryTemplate = () => {
@@ -12,7 +12,7 @@ const GalleryTemplate = () => {
     <Layout title={`Gallery - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title="Gallery">
-        <Gallery />
+        <ImageGallery />
       </Page>
     </Layout>
   );
