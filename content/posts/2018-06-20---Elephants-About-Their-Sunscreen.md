@@ -9,11 +9,12 @@ tags:
   - "Travel"
   - "Thiland"
   - "Animal"
+  - "Volunteer"
 description: "亞洲象喜歡把泥巴塗抹在身上，可以保護皮膚不受蚊蟲或高溫的傷害。"
 socialImage: "/media/elephant-sunscreen.jpg"
 ---
 
-![elephant-sunscreen.jpg](/media/elephant-sunscreen.jpg)
+![elephant-sunscreen.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370476/gatsby-blog/posts/thiland/elephant-sunscreen_f89ln3.jpg)
 
 亞洲象喜歡用鼻子的將泥巴往上灑在背上、或左右灑在身體的側面，
 主要功能有兩個：
@@ -33,7 +34,7 @@ socialImage: "/media/elephant-sunscreen.jpg"
 當人擁有大象：
 現在在清邁當地都會看到”no elephant riding(不騎大象)”的洗大象行程宣傳，但當大象重複的被帶到河裡清洗，對他們的皮膚是否有不良的影響？
 
-![elephant-baby-fur.jpg](/media/elephant-baby-fur.jpg)
+![elephant-baby-fur.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370475/gatsby-blog/posts/thiland/elephant-baby-fur_ljfmef.jpg)
 *照片中是象寶寶gili的毛，小象因為還不太會用鼻子把身體噴滿泥巴，所以自帶滿身的毛防止大蟲的入侵！*
 
 # What I learned from elephants- About Mud, Bugs, Sunscree

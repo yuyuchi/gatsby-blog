@@ -9,6 +9,7 @@ tags:
   - "Travel"
   - "Thiland"
   - "Animal"
+  - "Volunteer"
 description: "除了在動物園看到大象會吃牧草以外，在野外的大象，可以吃的植物種類遠超乎我原本的想像。"
 socialImage: "/media/elephant-eat.jpg"
 ---
@@ -22,7 +23,7 @@ socialImage: "/media/elephant-eat.jpg"
 2. 因為遊客給予過多的香蕉而導致營養不良的問題（就像吃了過多的零食而無法吃其他正餐）
 3. 記憶中動物園的大象並不像叢林的大象一樣不斷的進食，是否是因為食物有過多的熱量、過少的纖維，讓大象不需要不斷進食
 
-![elephant-eat.jpg](/media/elephant-eat.jpg)
+![elephant-eat.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370458/gatsby-blog/posts/thiland/elephant-eat_stieoj.jpg)
 *照片中是一隻叫做Boonsi的母象，為了喝水，剛把農民設好的水管線路破壞，也因為這樣，農民常與野生象的衝突不斷。*
 
 # What I learned from elephants- About their diet

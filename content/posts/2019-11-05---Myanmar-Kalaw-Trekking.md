@@ -21,7 +21,7 @@ socialImage: "/media/myanmar/jungle.jpg"
 ## 關於健行
 
 <figure class="float-right" >
-	<img src="/media/myanmar/jungle.jpg" alt="jungle">
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370478/gatsby-blog/posts/myanmar/jungle_esgmpq.jpg" alt="jungle">
 	<figcaption>第一天的叢林路線。 比台灣的夏天涼，但還是偏濕熱。</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ socialImage: "/media/myanmar/jungle.jpg"
 ## 路線
 
 <figure class="float-right" >
-	<img src="/media/myanmar/railway.jpg" alt="railway">
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370467/gatsby-blog/posts/myanmar/railway_rmtp5c.jpg" alt="railway">
 	<figcaption>第一天，走鐵道，在路上看到很多紅色斑點的植物。</figcaption>
 </figure>
 
@@ -46,29 +46,29 @@ socialImage: "/media/myanmar/jungle.jpg"
 
   + Day3: 前往茵萊河
 
-![reservoir.jpg](/media/myanmar/reservoir.jpg)
+![reservoir.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370460/gatsby-blog/posts/myanmar/reservoir_kvql33.jpg)
 *第一天休息的第一站，蓄水池，我們坐在池邊交換零食。 guide 在這邊介紹一些格勞山區會有的動物。不過他在介紹時突然說出蛇在咬了人之後會因為人類抗體而死亡的理論，有一位比利時人（喬治）一直搖頭說他完全沒聽過這個說法。*
 
-![trekking-group.jpg](/media/myanmar/trekking-group.jpg)
+![trekking-group.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370478/gatsby-blog/posts/myanmar/trekking-group_iqvhxs.jpg)
 *第一天，大家好奇翁山蘇姬、羅興亞、軍政府的關係。 guide 在描述羅興亞時一直說著Rohingya’s problem，也有提到翁山蘇姬執政對他們來說遠比軍政府好得多。guide 認為翁山蘇姬的執政促進了緬甸的觀光、讓他們的生活過得更好。*
 
 ![dried-chili.jpg](/media/myanmar/dried-chili.jpg)
 *第二天，經過正在曬辣椒的村莊。空氣中充滿淡淡辣椒香。*
 
-![field.jpg](/media/myanmar/field.jpg)
+![field.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370463/gatsby-blog/posts/myanmar/field_ooa3q7.jpg)
 *第二天，路上遇到正在整理田的人。 guide 介紹了在樹上叫很大聲的昆蟲是 dragon fly，明明就是 cicada！*
 
-![food.jpg](/media/myanmar/food.jpg)
+![food.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370478/gatsby-blog/posts/myanmar/food_tkolyh.jpg)
 *第二天的晚餐，緬甸的菜色都還蠻台式的。 晚餐後大家隨意地圍著桌子喝著熱茶聊天，我應該會很想念這個當下。*
 
 
-![inle-lake.jpg](/media/myanmar/inle-lake.jpg)
+![inle-lake.jpg](https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370471/gatsby-blog/posts/myanmar/inle-lake_hw7gzw.jpg)
 *第三天，茵萊河。 河面到處都是超級巨大的布袋蓮（還有很多福壽螺的卵），船要開出一條布袋蓮通道才能前進，害我以為布袋蓮是緬甸的原生種（後來很悲傷的發現也是緬甸的外來種）。*
 
 ## 前往格勞交通
 
 <figure class="float-right" >
-	<img src="/media/myanmar/agave.jpg" alt="agave">
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370463/gatsby-blog/posts/myanmar/agave_wi9a2n.jpg" alt="agave">
 	<figcaption>第三天清晨，霧氣瀰漫、氣溫涼爽，還有看到很多年才會開花的龍舌蘭！ 龍舌蘭的葉片纖維非常有韌性，所以緬甸當地常會拿來曬乾然後織成坐墊。 照片中是龍舌蘭的花，通常需要十年以上才會開花，而且開花之後龍舌蘭就會死亡。 在途中，guide 把龍舌蘭葉片撕開然後很開心的笑，真心覺得這次的 guide 如果能加強文化、環境、生態的意識應該會更好。</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ socialImage: "/media/myanmar/jungle.jpg"
 大致上天數的選擇由一天、兩天、完整的三天都有，一天的通常是在格勞附近走走，如果天數許可的話，推薦三天的行程！因為兩天的行程通常都是中途加入別人三天的團，而且如果能在第一天就加入健行團，對於團隊的體力、氣氛都能有比較好的掌握度。
 
 <figure class="float-right" >
-	<img src="/media/myanmar/toilet.jpg" alt="toilet">
+	<img src="https://res.cloudinary.com/dgmzobl6w/image/upload/v1591370455/gatsby-blog/posts/myanmar/toilet_e4j201.jpg" alt="toilet">
 	<figcaption>雖然上這種廁所不是第一天的事了，但我還是想分享一下。 緬甸的蚊子很多，當我晚上帶著手電筒進廁所的時候，一照到便盆內側，發現停滿了密密麻麻的蚊子（他們一副蓄勢待發的樣子），果然，當開始尿尿的時候，他們就馬上像被吹散的蒲公英噴發出來，我只能一邊祈禱趕快尿完一邊用手揮舞四周防止他們停在屁股上，真的是非常可怕，對我這個超級容易被蚊子叮的人來說。</figcaption>
 </figure>
 
